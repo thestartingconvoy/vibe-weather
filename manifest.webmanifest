@@ -1,0 +1,10 @@
+{
+  "name": "Afterglow Weather",
+  "short_name": "Afterglow",
+  "description": "A cinematic four-hour weather forecast.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101b33",
+  "theme_color": "#101b33",
+  "icons": []
+}
